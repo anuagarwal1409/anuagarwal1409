@@ -1,4 +1,4 @@
-<!--<img src="https://github.com/Debanshu777/Debanshu777/blob/main/banner.png"/>-->
+<img src="https://raw.githubusercontent.com/anuagarwal1409/anuagarwal1409/main/Hey!__I'm_Anu__%F0%9F%94%AE.png" width=1200 height=450/ >
 <table>
     <tr>
     <td  align="center">
@@ -45,6 +45,15 @@
         <td align="center"><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /></td>
    </tr>
 </table> 
+
+<table>
+    <tr>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuagarwal1409" align="center"/></td>
+    </tr>
+    <tr>
+        <td><img src="https://github-readme-stats.vercel.app/api?username=anuagarwal1409&count_private=true&show_icons=true" align="center"/></td>
+    </tr>
+</table>
 
 ### Show some ❤️ by starring some of the repositories!
 
