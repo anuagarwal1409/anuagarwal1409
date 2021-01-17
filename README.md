@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/anuagarwal1409/anuagarwal1409/main/Hey!__I'm_Anu__%F0%9F%94%AE.png" width=1200 height=450/ >
+<img src="https://raw.githubusercontent.com/anuagarwal1409/anuagarwal1409/main/Hey!__I'm_Anu__%F0%9F%94%AE.png" width=1000 height=450/ >
 <table>
     <tr>
     <td  align="center">
